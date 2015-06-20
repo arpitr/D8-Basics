@@ -1,0 +1,5 @@
+second_module.my_first_page_menu_link:
+  title: My First Custom my_first_page_menu_link
+  description: 'This is test menu link'
+  parent: system.admin_structure
+  route_name: second_module.my_first_page

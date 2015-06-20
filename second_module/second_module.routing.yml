@@ -1,0 +1,7 @@
+second_module.my_first_page:
+  path: '/my-first-page'
+  defaults:
+    _controller: '\Drupal\second_module\Controller\FirstController::FrstCallBack'
+    _title: 'My First Custom Page'
+  requirements:
+    _permission: 'access content'
